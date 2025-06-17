@@ -2,7 +2,7 @@
 - 👀 I’m interested in PYTHON , AI AND MACHINE LEARNING - MATHS
 - 🌱 I’m currently learning CODE-BASICS
 - 💞️ I’m looking to collaborate on ... OPEN SOURCE
-- 📫 How to reach me ... THROUGH INSTAGRAM
+- 
 
 <!---
 pyprakhar/pyprakhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
